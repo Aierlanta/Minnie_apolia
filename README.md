@@ -1,4 +1,5 @@
-# Minnie_apolia    
+# Minnie_apolia     
+注：本书所有插画均由ai绘制   
 
 ## 第一卷：灭世录       
 ### 封面        
