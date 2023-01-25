@@ -12,8 +12,10 @@
 
 ## 番外01：暗月与曜日相伴而出
 
-### 月见
+### 月见小姐
 
 象征着月亮的忧郁少女
 
-![月见小姐设计图]
+![月见小姐人物设计1](https://raw.githubusercontent.com/Aierlanta/Minnie_apolia/main/%E7%95%AA%E5%A4%96/illustrations/%E6%9C%88%E8%A7%81%E5%B0%8F%E5%A7%90%E4%BA%BA%E7%89%A9%E8%AE%BE%E8%AE%A11.png)
+
+![月见小姐人物设计2](https://raw.githubusercontent.com/Aierlanta/Minnie_apolia/main/%E7%95%AA%E5%A4%96/illustrations/%E6%9C%88%E8%A7%81%E5%B0%8F%E5%A7%90%E4%BA%BA%E7%89%A9%E8%AE%BE%E8%AE%A12.png)
