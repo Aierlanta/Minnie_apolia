@@ -1,5 +1,7 @@
 # Minnie_apolia        
 
+注：本书插画均由ai绘制
+
 ## 第一卷：灭世录       
 ### 封面        
 ![第一卷封面](https://github.com/Aierlanta/Minnie_apolia/blob/main/%E7%AC%AC%E4%B8%80%E9%83%A8%EF%BC%9A%E7%81%AD%E4%B8%96%E5%BD%95/%E6%8F%92%E5%9B%BE/%E5%B0%81%E9%9D%A2%EF%BC%88%E5%90%AB%E5%AD%97.png?raw=true)     
